@@ -62,3 +62,4 @@ Automate SQL query reporting
 **Priyadharshan** – Aspiring Data Analyst| Skilled in SQL,PowerBI,Python
 LinkedIn: [https://www.linkedin.com/in/priyadharshan-bobby]
 
+![Blinkit-Dashboard](https://github.com/user-attachments/assets/a992d560-8c18-4fdc-a3b9-45b4cbd7bf90)
