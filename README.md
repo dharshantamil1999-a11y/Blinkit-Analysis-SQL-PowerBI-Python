@@ -1,6 +1,6 @@
 # Blinkit-Analysis-SQL-PowerBI-Python
 📝 **Project Description** – Blinkit Sales &amp; Outlet Analysis  This project analyses Blinkit’s sales data to gain actionable insights into product performance, outlet characteristics, and customer preferences. Using SQL, Python, and Power BI, the analysis transforms raw transactional data into clear business intelligence for decision-making
-**Blinkit-Analysis-SQL-PowerBI-Python**-
+
 📊** Project Overview**
 This project analyzes Blinkit sales and customer data using Python, SQL, and Power BI.
 The goal was to explore patterns, clean and transform the dataset, and build an interactive dashboard to generate insights for business decision-making.
@@ -10,7 +10,7 @@ Python (Jupyter Notebook) → Data cleaning, preprocessing, and exploratory anal
 SQL → Writing queries to extract insights from raw data
 Power BI → Data cleaning (Power Query) and dashboard creation for visualization
 📂 **Project Workflow**
-Data Preparation
+    Data Preparation
 
 **Imported raw Blinkit dataset**
 Cleaned missing and inconsistent values using:
