@@ -9,7 +9,8 @@ The goal was to explore patterns, clean and transform the dataset, and build an 
 Python (Jupyter Notebook) → Data cleaning, preprocessing, and exploratory analysis
 SQL → Writing queries to extract insights from raw data
 Power BI → Data cleaning (Power Query) and dashboard creation for visualization
-📂 **Project Workflow**
+
+ 📂 **Project Workflow**
     Data Preparation
 
 **Imported raw Blinkit dataset**
@@ -35,15 +36,18 @@ Sales by Item Category
 Ratings distribution
 Average Sales per Item
 Monthly revenue trends
+
 **📈 Key Insights**
 Most popular items/categories driving sales
 Correlation between product ratings and sales
 Seasonal demand trends and revenue growth patterns
 Areas where Blinkit can optimize inventory and pricing
+
 **📂 Repository Structure**
 Blinkit Analysis by Python.ipynb → Python notebook for data cleaning & EDA
 SQL Data and Docs → SQL queries + documentation
 BlinkIt Dashboard.pbix → Power BI Dashboard file
+
 **📌 Results**
 Automated data cleaning pipelines in Python and Power BI
 Extracted business insights using SQL queries
@@ -51,9 +55,10 @@ Delivered a dynamic dashboard for stakeholders
 
 **🚀 Future Improvements**
 Add machine learning models for sales prediction
-
-**📝 Author**
-Priyadharshan – Aspiring Data Analyst| Skilled in SQL,PowerBI,Python
-LinkedIn: [https://www.linkedin.com/in/priyadharshan-bobby]
 Deploy dashboard online (Power BI Service)
 Automate SQL query reporting
+
+**📝 Author**
+**Priyadharshan** – Aspiring Data Analyst| Skilled in SQL,PowerBI,Python
+LinkedIn: [https://www.linkedin.com/in/priyadharshan-bobby]
+
